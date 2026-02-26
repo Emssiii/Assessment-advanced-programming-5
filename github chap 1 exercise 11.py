@@ -1,8 +1,0 @@
-year = (2017, 2003, 2011, 2005, 1987, 2009, 2020, 2018, 2009)
-print("Value at index -3:", year[-3])
-reversed_tuple = tuple(reversed(year))
-print("Original tuple:", year)
-print("Reversed tuple:", reversed_tuple)
-print("Count of 2009:", year.count(2009))
-print("Index of 2018:", year.index(2018))
-print("Length of tuple:", len(year), "\n")
